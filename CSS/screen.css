@@ -2,13 +2,15 @@ body {
 	background-color: yellow;
 }
 h1{
-	font-size: 2.8em;
-	text-align: center;
+  	font-size: 2.8em;
+  	text-align: center;
+ 	 margin: 8px;
 }
 p{
 	text-align: center;
 	font-size: 1.67em;
 	color: red;
+	margin: 8px;
 }
 label {
   display: block;
