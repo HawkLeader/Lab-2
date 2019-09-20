@@ -77,7 +77,7 @@ input[type=submit]{
 		
   }
   
-  #submit {
-    width: 26%;
+  input[type=submit]{
+	width: 26%
   }
 }
