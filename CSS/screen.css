@@ -31,6 +31,9 @@ input {
 #fontsize {
 	font-size: 1.3em;
 }
+input[type=submit]{
+	font-size: 1.1em
+}
 
 @media screen and (min-width: 480px) {
 #container {
