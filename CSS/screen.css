@@ -8,6 +8,7 @@ h1{
 p{
 	text-align: center;
 	font-size: 1.67em;
+	color: red;
 }
 label {
   display: block;
@@ -16,8 +17,8 @@ label {
 }
 
 input {
-  width: 100%;
-  padding: 12px 20px;
+  width: 95%;
+  padding: 20px 20px;
   margin: 8px 0;
   border: 1px solid #ccc;
   border-radius: 6px;
@@ -42,6 +43,7 @@ input {
 
 	p {
 	font-size: .84em;
+	color: black;
 	}
 
 	label {
@@ -63,7 +65,7 @@ input {
 @media screen and (min-width: 768px) {
   #container {
 		background-color: black;
-    width: 600px;
+    width:90%;
     float: right;
 		height: 600px;
 		
